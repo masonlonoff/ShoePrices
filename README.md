@@ -11,3 +11,6 @@ There are two files in this repository:
       
       2: ShoesML.ipynb - This file contains ML algorithms that attempt to accurately predict shoe prices. I used Multiple Linear Regression, Polynomial Regression, Support Vector Regression, Decision Trees, and Random Forest models. The SVR and Random Forest models performed the best, so I used add hyperparameters and cross-validation to try to find the best accuracy.                       
       
+      
+R^2 Scores for the Base Models:
+

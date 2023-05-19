@@ -9,5 +9,4 @@ There are two files in this repository:
       1: Shoes.ipynb - This file contains initial EDA, data cleansing, and data visualization based on the dataset.
       
       
-      
-ML Results:
+      2: For the models with the best two accuracies, I added hyperparameters and used cross val to find the best accuracy 

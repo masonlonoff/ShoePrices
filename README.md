@@ -13,7 +13,7 @@ There are two files in this repository:
       
       
       
-[Shoes]Shoes.ipynb
+[Shoes.ipynb](https://github.com/masonlonoff/ShoePrices/blob/main/Shoes.ipynb)
       
       
 R^2 Scores for the Base Models:

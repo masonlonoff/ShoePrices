@@ -13,8 +13,7 @@ There are two files in this repository:
       
       
       
-[Shoes.ipynb](https://github.com/masonlonoff/ShoePrices/blob/main/Shoes.ipynb)
-      
+
       
 R^2 Scores for the Base Models:
 1) Support Vector Regression: 0.7759174402010507

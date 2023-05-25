@@ -7,14 +7,14 @@ This dataset contains information about the sales of shoes in a particular regio
 
 Column Details:
 
-**Brand**: The brand of the shoe, such as Nike, Adidas, or Reebok.
-**Model**: The specific model name or number of the shoe, such as Air Jordan 1, Ultra Boost 21, or Classic Leather.
-**Type**: The type of shoe, such as running, casual, or skate. This column describes the intended use or function of the shoe.
-**Gender**: The gender the shoe is designed for, such as men, women, or unisex. This column specifies the target demographic for the shoe.
-**Size**: The size of the shoe, using US sizing. This column indicates the length of the shoe in inches or centimeters.
-**Color**: The color of the shoe's exterior. This column describes the predominant color or color combination of the shoe.
-**Material**: The primary material of the shoe, such as leather, mesh, or suede. This column indicates the material that comprises the majority of the shoe's construction.
-**Price**: The price of the shoe, in US dollars. This column specifies the cost of purchasing the shoe.
+**Brand**: The brand of the shoe, such as Nike, Adidas, or Reebok.\
+**Model**: The specific model name or number of the shoe, such as Air Jordan 1, Ultra Boost 21, or Classic Leather.\
+**Type**: The type of shoe, such as running, casual, or skate. This column describes the intended use or function of the shoe.\
+**Gender**: The gender the shoe is designed for, such as men, women, or unisex. This column specifies the target demographic for the shoe.\
+**Size**: The size of the shoe, using US sizing. This column indicates the length of the shoe in inches or centimeters.\
+**Color**: The color of the shoe's exterior. This column describes the predominant color or color combination of the shoe.\
+**Material**: The primary material of the shoe, such as leather, mesh, or suede. This column indicates the material that comprises the majority of the shoe's construction.\
+**Price**: The price of the shoe, in US dollars. This column specifies the cost of purchasing the shoe.\
 
 ## Acknowledgement
 The dataset that I completeted analysis on is the "Shoe Prices dataset" created by KIATTISAK RATTANAPORN on Kaggle.

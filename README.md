@@ -1,4 +1,6 @@
 # ShoePrices
+![image](https://github.com/masonlonoff/ShoePrices/assets/117112918/f95c8965-c707-4e7e-a1e9-417a872f542f)
+
 
 The dataset that I completeted analysis on is the "Shoe Prices dataset" created by KIATTISAK RATTANAPORN on Kaggle.
 

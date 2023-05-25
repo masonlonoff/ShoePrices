@@ -1,7 +1,7 @@
 # ShoePrices
 ![image](https://github.com/masonlonoff/ShoePrices/assets/117112918/f95c8965-c707-4e7e-a1e9-417a872f542f)
 
-
+## Acknowledgement
 The dataset that I completeted analysis on is the "Shoe Prices dataset" created by KIATTISAK RATTANAPORN on Kaggle.
 
 https://www.kaggle.com/datasets/rkiattisak/shoe-prices-dataset
@@ -17,7 +17,7 @@ There are two files in this repository:
       
 
       
-R^2 Scores for the Base Models:
+### R^2 Scores for the Base Models:
 1) Support Vector Regression: 0.7759174402010507
 2) Random Forest: 0.7584145984167422
 3) Polymomial Regression (degree = 2): 0.7107181316046094

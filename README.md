@@ -5,7 +5,7 @@
 ## Description
 This dataset contains information about the sales of shoes in a particular region. The data includes information on the brand, model, type of shoe, gender, size, color, material, and price.
 
-Column Details:
+## Column Details:
 
 **Brand**: The brand of the shoe, such as Nike, Adidas, or Reebok.\
 **Model**: The specific model name or number of the shoe, such as Air Jordan 1, Ultra Boost 21, or Classic Leather.\
